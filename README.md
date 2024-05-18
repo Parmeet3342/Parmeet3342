@@ -1,16 +1,18 @@
-### Hi there 👋
+# Welcome to My GitHub Profile! 👋 
 
-<!--
-**Parmeet3342/Parmeet3342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Greetings! I am **Parmeet Singh**, a Technology Enthusiast with expertise in Java and Web Development. Step into my GitHub realm, where I craft elegant and efficient code solutions.
 
-Here are some ideas to get you started:
+## About Me 🚀
+- 💻 I am a Pre-final year student at GL BAJAJ, pursuing a degree in CSAIML.
+- 🌱 I am eager to contribute to open-source projects and explore freelancing opportunities.
+- 📚 I have a strong commitment to continuous learning and personal growth.
+- 🚀 I am determined to make a meaningful impact in the tech industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in Touch 📬
+- 📫 You can reach me at **parmeetsingh.indulhi@gmail.com** or connect with me on LinkedIn: https://www.linkedin.com/in/parmeet-singh-0ab088296/
+- 😄 Pronouns: He/Him
+- ⚡️ Fun Fact: There is no place like **127.0.0.1**
+
+Feel free to explore my repositories and contribute to any open-source projects that align with your interests. If you have any questions or would like to collaborate, please don't hesitate to reach out.
+
+Thank you for visiting my profile! 😊
